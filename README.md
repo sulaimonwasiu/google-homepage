@@ -1,1 +1,1 @@
-This project is about cloning the Google's homepage
+This project is about cloning the Google's homepage.
